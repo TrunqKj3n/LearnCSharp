@@ -1,0 +1,2 @@
+# LearnCSharp
+Tryhard C# 
