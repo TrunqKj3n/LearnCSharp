@@ -1,2 +1,1 @@
-# LearnCSharp
-Tryhard C# 
+## Nghich C# :v
